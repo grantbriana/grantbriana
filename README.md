@@ -1,18 +1,18 @@
 ### Hi there 👋
 #### My name is Briana and I am currently a Computer Science Student specializing in Software Systems
-#### Languages:
-[![My Skills](https://skillicons.dev/icons?i=py,cs,java,js, COBOL&theme=light)](https://skillicons.dev)
+### Languages:
+[![My Skills](https://skillicons.dev/icons?i=py,cs,java,js&theme=light)](https://skillicons.dev)
 #### Python, C#, Java, Javascript
 
-#### Cloud Computing:
+### Cloud Computing:
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp&theme=light)](https://skillicons.dev)
 #### Docker, Kubernetes, Azure, Google Cloud, IBM Cloud
 
-#### Web Development:
+### Web Development:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,flask&theme=light)](https://skillicons.dev)
 #### Javascript, HTML, Azure, Bootstrap, Django, Flask 
 
-#### Other Skills:
+### Other Skills:
 [![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
 #### Linux, Windows, Visual Studio, Agile, SDLC
 
