@@ -3,11 +3,11 @@
 #### Languages:
 
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/kubernetes.png"></code>
+<code><i class="fa-brands fa-docker"></i></code>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
