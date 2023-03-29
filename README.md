@@ -7,7 +7,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 
-<code><i class="fa-brands fa-docker"></i></code>
+<i class="fa-brands fa-docker"></i>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
