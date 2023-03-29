@@ -2,16 +2,20 @@
 #### My name is Briana and I am currently a Computer Science Student specializing in Software Systems
 #### Languages:
 [![My Skills](https://skillicons.dev/icons?i=py,cs,java,js, COBOL&theme=light)](https://skillicons.dev)
-#####Python, C#, Java, Javascript
+#### Python, C#, Java, Javascript
+
 #### Cloud Computing:
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp&theme=light)](https://skillicons.dev)
-####Docker, Kubernetes, Azure, Google Cloud, IBM Cloud
+#### Docker, Kubernetes, Azure, Google Cloud, IBM Cloud
+
 #### Web Development:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,flask&theme=light)](https://skillicons.dev)
-####Javascript, HTML, Azure, Bootstrap, Django, Flask 
+#### Javascript, HTML, Azure, Bootstrap, Django, Flask 
 
-### Other Skills:
+#### Other Skills:
 [![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
+#### Linux, Windows, Visual Studio, Agile, SDLC
+
 
 - 🔭 I’m currently working on ... a Web Based Application "Security Knowledge Management System" ~ a web application for an organization to securely store, view, and analyze a company's security practices, policies, procedures, and serve as a means of secure communication between users utilizing a forum architecture. 
 
