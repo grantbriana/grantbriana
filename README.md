@@ -24,7 +24,6 @@
 ### Some of my Top Projects: 
 - [Security Knowledge Management System (Currently Private)] (https://github.com/grantbriana/SKMS)
 - [Simple Course Planning Tool] https://github.com/grantbriana/Simple-Course-Planning-Tool- or visit [live application] (https://scheduleGen.brianagrant.repl.com)
-- 
 <!--
 **grantbriana/grantbriana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
