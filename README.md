@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,cs,java,js&theme=light)](https://skillicons.dev)
 #### Python, C#, Java, Javascript
 
-### Cloud Computing:
+### DevOps/Cloud Computing:
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp&theme=light)](https://skillicons.dev)
 #### Docker, Kubernetes, Azure, Google Cloud, IBM Cloud
 
