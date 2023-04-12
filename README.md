@@ -25,6 +25,7 @@
 - [Security Knowledge Management System (Currently Private)] (https://github.com/grantbriana/SKMS) or visit [live application] (https://skms.azurewebsites.net/)
 - [Simple Course Planning Tool] https://github.com/grantbriana/Simple-Course-Planning-Tool- or visit [live application] (https://scheduleGen.brianagrant.repl.com)
 - [Smart Lock] (https://github.com/grantbriana/Smart-Lock) or visit presentation at (https://github.com/grantbriana/Smart-Lock/blob/main/Computer%20Architecture_%20Smart%20Lock.pptx.pdf)
+- [QR Reader] (https://github.com/SpicyTaterTot00/QRCodeGenerator) or visit [live application]  (https://spicytatertot00.github.io/QRCodeGenerator/)
 <!--
 **grantbriana/grantbriana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
