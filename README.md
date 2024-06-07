@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is Briana and I am currently a Computer Science Student specializing in Software Systems
+#### My name is Briana and I am an Application Developer, specializing in Software Systems
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=py,cs,java,js,cpp,c&theme=light)](https://skillicons.dev)
 #### Python, C#, Java, Javascript, C++, C 
