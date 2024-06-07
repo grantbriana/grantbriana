@@ -9,8 +9,8 @@
 #### Docker, Kubernetes, Azure, Google Cloud, IBM Cloud
 
 ### Web Development:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,flask&theme=light)](https://skillicons.dev)
-#### Javascript, HTML, Azure, Bootstrap, Django, Flask 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,flask,typescript,react&theme=light)](https://skillicons.dev)
+#### Javascript, HTML, Azure, Bootstrap, Django, Flask, Typescript, React 
 
 ### Other Skills:
 [![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
