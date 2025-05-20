@@ -17,10 +17,6 @@
 #### Linux, Windows, Visual Studio, Agile, SDLC
 
 
-- 🔭 I’m currently working on ... a Web Based Application "Security Knowledge Management System" ~ a web application for an organization to securely store, view, and analyze a company's security practices, policies, procedures, and serve as a means of secure communication between users utilizing a forum architecture. 
-
-- 🌱 I’m currently learning ... COBOL and Containerization (Kubernetes & Docker)
-
 ### Some of my Top Projects: 
 - [Security Knowledge Management System (Currently Private)] (https://github.com/grantbriana/SKMS) or visit [live application] (https://skms.azurewebsites.net/)
 - [Simple Course Planning Tool] https://github.com/grantbriana/Simple-Course-Planning-Tool- or visit [live application] (https://scheduleGen.brianagrant.repl.com)
